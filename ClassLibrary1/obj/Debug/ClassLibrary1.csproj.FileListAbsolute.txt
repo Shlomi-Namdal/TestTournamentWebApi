@@ -1,0 +1,11 @@
+C:\Users\shlomi\Source\Repos\TestTournamentWebApi\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\shlomi\Source\Repos\TestTournamentWebApi\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\shlomi\Source\Repos\TestTournamentWebApi\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\shlomi\Source\Repos\TestTournamentWebApi\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\shlomi\Source\Repos\TestTournamentWebApi\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shlomi\Source\Repos\TestTournamentWebApi\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\shlomi\Source\Repos\TestTournamentWebApi\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shlomi\Source\Repos\TestTournamentWebApi\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\shlomi\Source\Repos\TestTournamentWebApi\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\shlomi\Source\Repos\TestTournamentWebApi\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\shlomi\Source\Repos\TestTournamentWebApi\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src="../../Scripts/getPage.js"></script>
+    <script src="../../Scripts/jquery-1.10.2.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Shlomi-Namdal</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="HtmlGetPage">Get XML</a><span class="sr-only">(current)</span>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="HtmlGetPageAjax">Get Ajax </a><span class="sr-only">(current)</span>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="ObservablePage">Get Observable</a> <span class="sr-only">(current)</span>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="HtmlPostPage">Post XML </a><span class="sr-only">(current)</span>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="HtmlPostPageAjax">Post Ajax</a><span class="sr-only">(current)</span>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="HtmlPutDeletePage">Put Xml </a><span class="sr-only">(current)</span>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="HtmlPutDeletePageAjax">Put Ajax</a> <span class="sr-only">(current)</span>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container mt-1">
+        <div class="row mb-1 "><label>ID:&nbsp;</label><input class="form-control col-lg-5 col-md-5 col-sm-5 col-5" id="getId" type="text" placeholder="Enter Id" /></div>
+        <div class="row">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button class="btn btn-primary" onclick="getAll()">Get All</button>&nbsp;&nbsp;&nbsp;<button class="btn btn-success" onclick="getById()">Get By Id</button></div>
+        <div id="results">
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
